@@ -22,13 +22,14 @@
 .title{
     padding-top: 10px;
     position: relative;
+    color: rgb(148, 148, 148)
 }
 .title:before{
     content: '';
     display: block;
     width: 135px;
     height: 1px;
-    background-color: black;
+    background-color: rgb(148, 148, 148);
     position: absolute;
     top: 70%;
     
@@ -38,7 +39,7 @@
     display: block;
     width: 135px;
     height: 1px;
-    background-color: black;
+    background-color: rgb(148, 148, 148);
     position: absolute;
     right: 0;
     top: 70%;
