@@ -49,6 +49,7 @@
     
 }
 
+
 .flex{
     text-align: center;
     display: flex;
@@ -77,14 +78,6 @@ footer{
 
 }
 .foot{
-    
+    padding-top: 20px;
 }
-.list{
-    list-style-type: none;
-    display: flex;
-    flex-direction: row;
-    gap: 25px;
-    margin-left: 455px;
-}
-
-   
+a{padding: 20px;}
